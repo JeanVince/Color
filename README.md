@@ -84,11 +84,11 @@ Ce projet est une application web dynamique et interactive, conçue avec un acce
 
 1. Clonez le dépôt :
    ```bash
-   git clone https://github.com/nomutilisateur/nomprojet.git
+   git clone https://github.com/JeanVince/Color.git
    ```
 2. Accédez au répertoire du projet :
    ```bash
-   cd nomprojet
+   cd Color
    ```
 3. Ouvrez le fichier `index.html` dans votre navigateur web pour voir le projet en action.
 
